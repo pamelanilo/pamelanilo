@@ -35,54 +35,43 @@ quais caminhos dentro da área mais combinam comigo.
 <tr>
 <td width="60%" valign="top">
 
-## ✦ O que estou aprendendo
+<table>
+<tr>
+<td width="65%" valign="top">
 
-Estou construindo minha base em desenvolvimento de software e,
-neste momento, meus principais focos são:
+<h2>✦ O que estou aprendendo</h2>
 
-- ☕ Java
-- ◈ Programação Orientada a Objetos
-- ⌘ APIs REST
-- ▣ Banco de Dados
-- ◉ Git e GitHub
+<p>
+Estou construindo minha base em desenvolvimento de software,
+com foco principalmente nas tecnologias e conceitos que estou
+estudando atualmente na faculdade.
+</p>
 
-Também estou explorando desenvolvimento de jogos com:
+<p>
 
-- Godot
-- Pixel Art
-- Game Design
-- Storytelling
+☕ <b>Java</b> · ◈ <b>POO</b> · ⌘ <b>APIs REST</b> · ▣ <b>Banco de Dados</b>
+
+</p>
+
+<p>
+Também estou explorando o desenvolvimento de jogos,
+estudando <b>Godot</b>, <b>Pixel Art</b>, <b>Game Design</b>
+e <b>Storytelling</b>.
+</p>
 
 </td>
 
-<td width="40%" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/halfmage/pixelarticons/master/svg/computer.svg" width="140">
+<img src="https://raw.githubusercontent.com/halfmage/pixelarticons/master/svg/computer.svg" width="90">
 
-<br>
+<br><br>
 
-<sub>aprendendo • criando • experimentando</sub>
+<sub>aprendendo<br>e experimentando</sub>
 
 </td>
 </tr>
 </table>
-
----
-
-<table>
-<tr>
-
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/halfmage/pixelarticons/master/svg/code.svg" width="140">
-
-<br>
-
-<sub>transformando ideias em código</sub>
-
-</td>
-
-<td width="60%" valign="top">
 
 ## ✦ Minha trajetória
 
@@ -140,6 +129,13 @@ Git · GitHub · VS Code · Godot · Pixelorama
 <p align="center">
   ✦ ───────────────────────────────────────── ✦
 </p>
+
+---
+
+## ✦ Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## ✦ GitHub
 
